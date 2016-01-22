@@ -93,35 +93,3 @@ def printMenu():
     print("2.\tWithdraw Funds")
     print("3.\tDeposit Funds")
     print("4.\tQuit")
-    
-
-
-
-
-
-
-
-    
-                
-            
-
-        
-
-    
-
-
-
-
-
-
-
-
-
-
-
-    
-
-
-
-
-        
